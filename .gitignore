@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Конфиги с ключами
+config/profiles.ini
+config/fragmentapi.ini
+*.log
