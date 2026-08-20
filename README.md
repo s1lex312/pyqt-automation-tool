@@ -9,6 +9,7 @@
 - HWID-защита
 - Уведомления
 - Выгрузка в Excel
+- <img width="621" height="194" alt="excel" src="https://github.com/user-attachments/assets/c713cb77-bf9f-4c7c-969a-ae39260773c6" />
 - Мультипрофильность
 
 ## Технологии
